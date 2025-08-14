@@ -1,14 +1,16 @@
 class Solution {
     public int partitionString(String s) {
-        int xr=0;
-        int ans=1;
-        for(char c : s.toCharArray()){
-            if((xr & (1<<c))!=0){
-                xr=0;
-                ans++;
+        boolean[] seen = new boolean[26];
+        int cnt = 1; // At least one partition
+
+        for (char c : s.toCharArray()) {
+            if (seen[c - 'a']) {
+                cnt++; // Start new partition
+                seen = new boolean[26]; // Reset
             }
-            xr^=(1<<c);
+            seen[c - 'a'] = true;
         }
-        return ans;
+
+        return cnt;
     }
 }
