@@ -14,15 +14,12 @@
  * }
  */
 class Solution {
-    private void helper(TreeNode root, List<Integer> res){
-        if(root == null) return;
-        helper(root.left,res);
-        res.add(root.val);
-        helper(root.right,res);
-    }
+    private int count = 0;
     public int countNodes(TreeNode root) {
-        List<Integer> res = new ArrayList<>();
-        helper(root,res);
-        return res.size();
+        if(root == null) return 0;
+        count++;
+        countNodes(root.left);
+        countNodes(root.right);
+        return count;
     }
 }
