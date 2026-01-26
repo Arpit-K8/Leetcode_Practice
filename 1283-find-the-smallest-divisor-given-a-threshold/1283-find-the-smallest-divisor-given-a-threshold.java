@@ -22,13 +22,13 @@ class Solution {
             int mid = left + (right - left) / 2;
             sum = findSum(mid, nums);
             if (sum <= threshold) {
-                divisor = mid;
+                // divisor = mid;
                 right = mid - 1;
             } else {
                 left = mid + 1;
             }
         }
 
-        return divisor;
+        return left;
     }
 }
