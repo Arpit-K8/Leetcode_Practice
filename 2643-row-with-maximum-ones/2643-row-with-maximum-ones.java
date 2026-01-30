@@ -5,11 +5,9 @@ class Solution {
         int max = 0;
         int rowIndex = 0;
         for (int i = 0; i < m; i++) {
-            int count = 0;  // reset for each row
+            int count = 0;  
             for (int j = 0; j < n; j++) {
-                if (mat[i][j] == 1) {
-                    count++;
-                }
+                if (mat[i][j] == 1) count++;
             }
             if (count > max) {
                 max = count;
