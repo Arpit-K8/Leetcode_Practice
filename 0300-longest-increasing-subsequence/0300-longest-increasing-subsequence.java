@@ -1,20 +1,25 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
-        int[] dp = new int[n];  // dp[i] = length of LIS ending at index i
-        Arrays.fill(dp, 1);     // every element is an LIS of length 1 by default
+        TreeMap<Integer, Integer> mp = new TreeMap<>();
+        int ans = 0;
+        for (int i = 0; i < n; i++) {
+            int len = 1;
 
-        for (int i = 1; i < n; i++) {
-            for (int j = 0; j < i; j++) {
-                if (nums[i] > nums[j]) { // valid increasing sequence
-                    dp[i] = Math.max(dp[i], dp[j] + 1);
-                }
+            Integer key = mp.lowerKey(nums[i]);
+            if (key != null) {
+                len += mp.get(key);
             }
+
+            mp.put(nums[i], Math.max(mp.getOrDefault(nums[i], 0), len));
+
+            key = mp.higherKey(nums[i]);
+            while (key != null && mp.get(key) <= len) {
+                mp.remove(key);
+                key = mp.higherKey(nums[i]);
+            }
+            ans = Math.max(ans, len);
         }
-        int maxLen = 0;
-        for (int len : dp) {
-            maxLen = Math.max(maxLen, len);
-        }
-        return maxLen;
+        return ans;
     }
 }
