@@ -1,32 +1,31 @@
 class Solution {
+    int[][] dp;
     public int minDistance(String word1, String word2) {
-        int m = word1.length(), n = word2.length();
-        int[][] dp = new int[m + 1][n + 1];
-
-        // Initialize base cases: empty string comparisons
+        int m = word1.length();
+        int n = word2.length();
+        dp = new int[m + 1][n + 1];
+        // Fill with -1 (means not computed yet)
         for (int i = 0; i <= m; i++) {
-            dp[i][0] = i; // Deleting all characters from word1
+            Arrays.fill(dp[i], -1);
         }
-        for (int j = 0; j <= n; j++) {
-            dp[0][j] = j; // Inserting all characters to word1
+        return solve(word1, word2, m, n);
+    }
+    private int solve(String w1, String w2, int i, int j) {        
+        // Base cases
+        if (i == 0) return j;
+        if (j == 0) return i;
+        // If already computed
+        if (dp[i][j] != -1) return dp[i][j];
+        // If characters match
+        if (w1.charAt(i - 1) == w2.charAt(j - 1)) {
+            dp[i][j] = solve(w1, w2, i - 1, j - 1);
+        } 
+        else {
+            int replace = solve(w1, w2, i - 1, j - 1);
+            int delete = solve(w1, w2, i - 1, j);
+            int insert = solve(w1, w2, i, j - 1);
+            dp[i][j] = 1 + Math.min(replace, Math.min(delete, insert));
         }
-
-        // Fill DP table
-        for (int i = 1; i <= m; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (word1.charAt(i - 1) == word2.charAt(j - 1)) {
-                    dp[i][j] = dp[i - 1][j - 1]; // No operation needed
-                } else {
-                    dp[i][j] = 1 + Math.min(
-                        dp[i - 1][j - 1], // Replace
-                        Math.min(
-                            dp[i - 1][j],   // Delete
-                            dp[i][j - 1]    // Insert
-                        )
-                    );
-                }
-            }
-        }
-        return dp[m][n];
+        return dp[i][j];
     }
 }
