@@ -15,32 +15,24 @@ class Solution {
         }
         for (int col = 0; col < n; col++) {
             if (isSafe(board, row, col, n)) {
-                board[row][col] = 'Q';   // place queen
+                board[row][col] = 'Q';  
                 nQueens(board, row + 1, n, ans);
-                board[row][col] = '.';   // backtrack
+                board[row][col] = '.';
             }
         }
     }
-
     private boolean isSafe(char[][] board, int row, int col, int n) {
-        // Check column
         for (int i = 0; i < row; i++) {
             if (board[i][col] == 'Q') return false;
         }
-
-        // Check upper left diagonal
         for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
             if (board[i][j] == 'Q') return false;
         }
-
-        // Check upper right diagonal
         for (int i = row - 1, j = col + 1; i >= 0 && j < n; i--, j++) {
             if (board[i][j] == 'Q') return false;
         }
-
         return true;
     }
-
     private List<String> construct(char[][] board) {
         List<String> res = new ArrayList<>();
         for (int i = 0; i < board.length; i++) {
@@ -80,4 +72,11 @@ But the required output format is:
   "..Q."
 ]
 ```
+
+we are checking in three direction only 
+Column ↑
+Upper-left ↖
+Upper-right ↗
+
+cause below are empty and when we are backtracking we need to revise our prev steps
  */
