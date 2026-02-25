@@ -2,7 +2,6 @@ class Solution {
     public int maxProfit(int k, int[] prices) {
         int n = prices.length;
         if(n == 0 || k == 0) return 0;
-        
         int[][] dp = new int[k+1][n];
         for(int i = 1 ; i <= k ; i++){
             int maxDiff = -prices[0];
