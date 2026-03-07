@@ -31,4 +31,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 <!---LeetCode Topics End-->
