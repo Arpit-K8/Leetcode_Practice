@@ -59,4 +59,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [1009-complement-of-base-10-integer](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
