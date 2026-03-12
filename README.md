@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0164-maximum-gap/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -60,4 +61,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0164-maximum-gap/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
