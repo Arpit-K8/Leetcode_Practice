@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0888-fair-candy-swap/) | Easy |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
