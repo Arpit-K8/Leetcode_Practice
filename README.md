@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0888-fair-candy-swap/) | Easy |
+| [0907-sum-of-subarray-minimums](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Linked List
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0907-sum-of-subarray-minimums](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +117,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 <!---LeetCode Topics End-->
