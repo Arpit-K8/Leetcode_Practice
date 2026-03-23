@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0735-asteroid-collision](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0888-fair-candy-swap/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0735-asteroid-collision/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0735-asteroid-collision](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
