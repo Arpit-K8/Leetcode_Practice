@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2906-construct-product-matrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2906-construct-product-matrix/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Greedy
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2906-construct-product-matrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2906-construct-product-matrix/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [2906-construct-product-matrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2906-construct-product-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
