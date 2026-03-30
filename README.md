@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0888-fair-candy-swap/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0888-fair-candy-swap/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
