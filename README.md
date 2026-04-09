@@ -171,4 +171,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0197-rising-temperature](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
