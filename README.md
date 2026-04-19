@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0197-rising-temperature](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0197-rising-temperature/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
