@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0402-remove-k-digits](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0402-remove-k-digits/) | Medium |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0621-task-scheduler](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0621-task-scheduler/) | Medium |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
