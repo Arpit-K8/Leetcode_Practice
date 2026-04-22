@@ -1,13 +1,16 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        int res = 0,curr = 0;
-        Map<Integer,Integer> map = new HashMap();
-        map.put(0,1); // intially i have to set for // 1 0 1 ,k = 1;
-        for(int i : nums){
-            curr += i; // prefix sum
-            res += map.getOrDefault(curr - k, 0);
-            map.put(curr,map.getOrDefault(curr,0)+1);
+        int n = nums.length;
+        // HashMap to store cumulative sums and their frequencies
+        HashMap<Integer, Integer> mp = new HashMap<>();
+        int count = 0;
+        int currSum = 0;
+        mp.put(0, 1);
+        for (int num : nums) {
+            currSum += num;
+            if (mp.containsKey(currSum - k)) count += mp.get(currSum - k);
+            mp.put(currSum, mp.getOrDefault(currSum, 0) + 1);
         }
-        return res; 
+        return count;
     }
 }
