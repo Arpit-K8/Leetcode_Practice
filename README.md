@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0198-house-robber](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0198-house-robber/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0198-house-robber](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0198-house-robber/) | Medium |
 | [0396-rotate-function](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0788-rotated-digits/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
