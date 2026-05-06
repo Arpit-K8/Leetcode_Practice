@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0735-asteroid-collision/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0888-fair-candy-swap/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0198-house-robber](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0198-house-robber/) | Medium |
 | [0396-rotate-function](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0396-rotate-function/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0788-rotated-digits/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
