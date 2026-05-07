@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0055-jump-game/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0055-jump-game](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0055-jump-game/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0396-rotate-function/) | Medium |
