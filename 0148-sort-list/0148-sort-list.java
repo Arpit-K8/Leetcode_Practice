@@ -11,46 +11,60 @@
 class Solution {
     public ListNode sortList(ListNode head) {
         if (head == null || head.next == null) return head;
-        return mergeSort(head);
-    }
-    private ListNode mergeSort(ListNode head) {
-        if (head == null || head.next == null) return head;
-
-        ListNode mid = middle(head);
-        ListNode rightHead = mid.next;
-        mid.next = null; 
-        ListNode left = mergeSort(head);
-        ListNode right = mergeSort(rightHead);
-        return merge(left, right);
-    }
-    private ListNode middle(ListNode head) {
-        if (head == null) return head;
-        ListNode slow = head;
-        ListNode fast = head.next;
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
+        List<Integer> ls = new ArrayList<>();
+        ListNode temp = head;
+        while(temp!=null){
+            ls.add(temp.val);
+            temp = temp.next;
         }
-        return slow;
-    }
-    private ListNode merge(ListNode l1, ListNode l2) {
-        ListNode dummy = new ListNode(0);
-        ListNode tail = dummy;
-
-        while (l1 != null && l2 != null) {
-            if (l1.val <= l2.val) {
-                tail.next = l1;
-                l1 = l1.next;
-            } else {
-                tail.next = l2;
-                l2 = l2.next;
-            }
-            tail = tail.next;
+        Collections.sort(ls);
+        temp = head;
+        int i = 0;
+        while(temp!=null){
+            temp.val = ls.get(i++);
+            temp = temp.next;
         }
-
-        if (l1 != null) tail.next = l1;
-        if (l2 != null) tail.next = l2;
-
-        return dummy.next;
+        return head;
     }
 }
+//     private ListNode mergeSort(ListNode head) {
+//         if (head == null || head.next == null) return head;
+
+//         ListNode mid = middle(head);
+//         ListNode rightHead = mid.next;
+//         mid.next = null; 
+//         ListNode left = mergeSort(head);
+//         ListNode right = mergeSort(rightHead);
+//         return merge(left, right);
+//     }
+//     private ListNode middle(ListNode head) {
+//         if (head == null) return head;
+//         ListNode slow = head;
+//         ListNode fast = head.next;
+//         while (fast != null && fast.next != null) {
+//             slow = slow.next;
+//             fast = fast.next.next;
+//         }
+//         return slow;
+//     }
+//     private ListNode merge(ListNode l1, ListNode l2) {
+//         ListNode dummy = new ListNode(0);
+//         ListNode tail = dummy;
+
+//         while (l1 != null && l2 != null) {
+//             if (l1.val <= l2.val) {
+//                 tail.next = l1;
+//                 l1 = l1.next;
+//             } else {
+//                 tail.next = l2;
+//                 l2 = l2.next;
+//             }
+//             tail = tail.next;
+//         }
+
+//         if (l1 != null) tail.next = l1;
+//         if (l2 != null) tail.next = l2;
+
+//         return dummy.next;
+//     }
+// }
