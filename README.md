@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2751-robot-collisions/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0888-fair-candy-swap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0888-fair-candy-swap/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [2751-robot-collisions](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2751-robot-collisions/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Bucket Sort
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2615-sum-of-distances](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2615-sum-of-distances/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
