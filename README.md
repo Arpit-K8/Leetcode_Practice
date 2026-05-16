@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0176-second-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0184-department-highest-salary](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0184-department-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0197-rising-temperature/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
