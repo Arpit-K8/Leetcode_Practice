@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0213-house-robber-ii/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0322-coin-change](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0062-unique-paths/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0396-rotate-function/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
