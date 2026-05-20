@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0213-house-robber-ii/) | Medium |
+| [0279-perfect-squares](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0396-rotate-function/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0062-unique-paths/) | Medium |
+| [0279-perfect-squares](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0292-nim-game/) | Easy |
 | [0396-rotate-function](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0396-rotate-function/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0322-coin-change/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
