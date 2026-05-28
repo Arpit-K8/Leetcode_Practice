@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0595-big-countries/) | Easy |
+| [0620-not-boring-movies](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1148-article-views-i/) | Easy |
 | [1280-students-and-examinations](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1280-students-and-examinations/) | Easy |
