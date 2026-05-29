@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1148-article-views-i/) | Easy |
+| [1251-average-selling-price](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1683-invalid-tweets/) | Easy |
