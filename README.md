@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0621-task-scheduler/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0888-fair-candy-swap/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2751-robot-collisions](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
