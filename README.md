@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2906-construct-product-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
