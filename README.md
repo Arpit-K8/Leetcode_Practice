@@ -346,4 +346,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
