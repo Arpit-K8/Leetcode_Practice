@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1251-average-selling-price](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1683-invalid-tweets](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1934-confirmation-rate/) | Medium |
