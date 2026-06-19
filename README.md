@@ -353,4 +353,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0193-valid-phone-numbers](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0193-valid-phone-numbers/) | Easy |
+| [0195-tenth-line](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
