@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0888-fair-candy-swap/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0455-assign-cookies/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Stack
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0888-fair-candy-swap/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2751-robot-collisions](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2751-robot-collisions/) | Hard |
