@@ -1,10 +1,8 @@
-import java.util.*;
-
 class Solution {
     int[] dp;
     public int coinChange(int[] coins, int amount) {
         dp = new int[amount + 1];
-        Arrays.fill(dp, -2); // -2 = uncomputed
+        Arrays.fill(dp, -2); // -2 = uncomputed cause -1 is one of the ans
         int ans = solve(coins, amount);
         return ans == Integer.MAX_VALUE ? -1 : ans;
     }
