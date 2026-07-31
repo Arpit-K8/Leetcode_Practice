@@ -1,30 +1,27 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        List<List<Integer>> adj = new ArrayList<>();
-        for(int i = 0; i < numCourses; i++){
-            adj.add(new ArrayList<>());
-        }
-        for(int[] edge : prerequisites){
+        HashMap<Integer, ArrayList<Integer>> adj = new HashMap<>();
+        int[] indegree = new int[numCourses];
+        Queue<Integer> q = new LinkedList<>();
+        for(int i =0;i<numCourses;i++) adj.put(i,new ArrayList<>());
+        for(int[] edge :prerequisites){
             int u = edge[0];
             int v = edge[1];
-            adj.get(u).add(v);
+            adj.get(v).add(u); // b->a thats why we need to do like this
+            indegree[u]++;
         }
-        int[] visited = new int[numCourses];
-        for(int i = 0; i < numCourses; i++){
-            if(visited[i] == 0){
-                if(hasCycle(adj, visited, i)) return false;
+        for(int i=0;i<numCourses;i++){
+            if(indegree[i] == 0) q.offer(i);
+        }
+        int cnt=0;
+        while(!q.isEmpty()){
+            int curr = q.poll();
+            cnt++;
+            for(int neigh : adj.get(curr)){
+                indegree[neigh]--;
+                if(indegree[neigh] == 0) q.offer(neigh);
             }
         }
-        return true;
-    }
-    private boolean hasCycle(List<List<Integer>> adj, int[] visited, int node){
-        if(visited[node] == 1) return true;   // found a cycle
-        if(visited[node] == 2) return false;  // already processed
-        visited[node] = 1; // mark as visiting
-        for(int nei : adj.get(node)){
-            if(hasCycle(adj, visited, nei)) return true;
-        }
-        visited[node] = 2; // mark as visited
-        return false;
+        return cnt == numCourses;
     }
 }
