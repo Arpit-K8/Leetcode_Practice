@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0207-course-schedule/) | Medium |
 | [0279-perfect-squares](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0322-coin-change/) | Medium |
 ## Merge Sort
@@ -368,4 +369,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0193-valid-phone-numbers](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0193-valid-phone-numbers/) | Easy |
 | [0195-tenth-line](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0195-tenth-line/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0207-course-schedule/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
