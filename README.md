@@ -340,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0207-course-schedule/) | Medium |
 | [0279-perfect-squares](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0322-coin-change/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -373,12 +374,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0207-course-schedule/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0207-course-schedule/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0207-course-schedule/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
