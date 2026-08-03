@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
+| [1140-stone-game-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1140-stone-game-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1140-stone-game-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2906-construct-product-matrix/) | Medium |
@@ -266,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0877-stone-game/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
+| [1140-stone-game-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1140-stone-game-ii/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Monotonic Stack
@@ -365,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1140-stone-game-ii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,4 +397,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0785-is-graph-bipartite/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
