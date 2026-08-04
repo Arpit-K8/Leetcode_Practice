@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0888-fair-candy-swap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0888-fair-candy-swap/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0990-satisfiability-of-equality-equations](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1030-matrix-cells-in-distance-order](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1140-stone-game-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1140-stone-game-ii/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0520-detect-capital](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0520-detect-capital/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0796-rotate-string/) | Easy |
+| [0990-satisfiability-of-equality-equations](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0207-course-schedule/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
