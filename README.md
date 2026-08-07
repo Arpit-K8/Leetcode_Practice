@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0389-find-the-difference/) | Easy |
 | [0402-remove-k-digits](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0520-detect-capital](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0520-detect-capital/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [0389-find-the-difference](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0389-find-the-difference/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Sorting
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0164-maximum-gap/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0888-fair-candy-swap](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0888-fair-candy-swap/) | Easy |
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0389-find-the-difference/) | Easy |
 | [0454-4sum-ii](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0454-4sum-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
