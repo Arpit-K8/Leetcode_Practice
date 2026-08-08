@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0049-group-anagrams/) | Medium |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0148-sort-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Arpit-K8/Leetcode_Practice/tree/main/0234-palindrome-linked-list/) | Easy |
