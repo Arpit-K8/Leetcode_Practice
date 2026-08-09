@@ -1,6 +1,6 @@
 class Solution {
     private int n;
-    private int[][][] dp = new int[2][101][101]; // dp[2][n+1][n+1] ~ O(n^3)
+    private int[][][] dp = new int[2][101][101]; // dp[2][n+1][n+1] 
     public int stoneGameII(int[] piles) {
         n = piles.length;
         for (int[][] arr2D : dp) {
